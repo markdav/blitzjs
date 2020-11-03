@@ -8,9 +8,7 @@ const Home = () => (
     </Head>
 
     <main>
-      <div className="logo">
-        <img src="/logo.png" alt="blitz.js" />
-      </div>
+      <h1>Testing Blitz.js</h1>
       <p>1. Run this command in your terminal:</p>
       <pre>
         <code>blitz generate all project name:string</code>
